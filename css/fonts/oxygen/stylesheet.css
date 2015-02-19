@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'oxygenbold';
+    src: url('Oxygen-Bold-webfont.eot');
+    src: url('Oxygen-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Bold-webfont.woff2') format('woff2'),
+         url('Oxygen-Bold-webfont.woff') format('woff'),
+         url('Oxygen-Bold-webfont.ttf') format('truetype'),
+         url('Oxygen-Bold-webfont.svg#oxygenbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'oxygenbold_italic';
+    src: url('Oxygen-BoldItalic-webfont.eot');
+    src: url('Oxygen-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-BoldItalic-webfont.woff2') format('woff2'),
+         url('Oxygen-BoldItalic-webfont.woff') format('woff'),
+         url('Oxygen-BoldItalic-webfont.ttf') format('truetype'),
+         url('Oxygen-BoldItalic-webfont.svg#oxygenbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'oxygenitalic';
+    src: url('Oxygen-Italic-webfont.eot');
+    src: url('Oxygen-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Italic-webfont.woff2') format('woff2'),
+         url('Oxygen-Italic-webfont.woff') format('woff'),
+         url('Oxygen-Italic-webfont.ttf') format('truetype'),
+         url('Oxygen-Italic-webfont.svg#oxygenitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'oxygenregular';
+    src: url('Oxygen-webfont.eot');
+    src: url('Oxygen-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-webfont.woff2') format('woff2'),
+         url('Oxygen-webfont.woff') format('woff'),
+         url('Oxygen-webfont.ttf') format('truetype'),
+         url('Oxygen-webfont.svg#oxygenregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
